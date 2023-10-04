@@ -2,27 +2,21 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Quem bom que vc veio",
-      "autoria": "Nay",
-      "modelo": "modelo1"
+      "conteudo": "Não importa o que o mundo diz de mim, o que importa é que eu nunca fiz nada que contrariasse os meus princípios e nunca farei.",
+      "autoria": "Zoro, One Piece",
+      "modelo": "modelo3"
     },
     {
       "id": 2,
-      "conteudo": "Bora estudar Angular",
-      "autoria": "André",
+      "conteudo": "Você não é perfeito, você comete erros e fica mais forte por causa deles. Eu acredito que essa é a verdadeira força.",
+      "autoria": "Hinata, Naruto",
       "modelo": "modelo2"
     },
     {
       "id": 3,
-      "conteudo": "Angular é o melhor",
-      "autoria": "Dev",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "testandi Aprendendo Angularz\\z\\z\\",
-      "autoria": "Add",
-      "modelo": "modelo3",
-      "id": 4
+      "conteudo": "Não é pecado lutar pela justiça, ao contrário, é uma boa ação. Pense, existem.. Inimigos que não são convencidos com as palavras.",
+      "autoria": "Android 16, Dragon Ball Z",
+      "modelo": "modelo1"
     },
     {
       "conteudo": "A verdade é uma coisa bela e terrível, e portanto deve ser tratada com grande cautela.",
@@ -31,16 +25,10 @@
       "id": 5
     },
     {
-      "conteudo": "A verdade é uma coisa bela e terrível, e portanto deve ser tratada com grande cautela.",
-      "autoria": "Alvos Dumbledore",
-      "modelo": "modelo2",
-      "id": 6
-    },
-    {
-      "conteudo": "",
-      "autoria": "",
+      "conteudo": "Chega um momento em que um homem deve se manter de pé e lutar. Esse momento é quando alguém ri dos sonhos de seus amigos.",
+      "autoria": "Usopp, One Piece",
       "modelo": "modelo3",
-      "id": 7
+      "id": 6
     }
   ]
 }
