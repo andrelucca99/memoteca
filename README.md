@@ -1,27 +1,41 @@
 # Memoteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+Esse, projeto foi desenvolvido durante o curso de Angular da <a href="https://www.alura.com.br/" target="_blank">Alura</a>.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Descrição do projeto:
+Memoteca, foi desenvolvida para seus usuários salvarem suas frases de filmes/séries preferidas. Através de uma aplicação CRUD, onde é possível criar, listar, editar e exluir seus cardes de frases preferidas.
 
-## Code scaffolding
+## Tecnologias usadas no projeto:
+<ul>
+  <li>Html</li>
+  <li>Css</li>
+  <li>TypeScript</li>
+  <li>Angular</li>
+</ul>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img src="./src/assets/imagens/tela-app.gif" alt="Gif da aplicação rodando." />
 
-## Build
+## Instruções para rodar o projeto:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Abra seu terminal do Desktop e execute os passos abaixo:
 
-## Running unit tests
+* Clone o repositório com a chave SSH:
+  * `git clone git@github.com:andrelucca99/memoteca.git`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Entre na pasta do repositório que você acabou de clonar:
+  * `cd memoteca`
 
-## Running end-to-end tests
+* Instale as dependências e rode o projeto:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+  * `npm install`
+  * `npm start`
 
-## Further help
+* Para subir à API da aplicação, em outro terminal entre na pasta `backend`:
+  * `cd backend`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* Depois rode o comando para installar às dependências:
+  * `npm install`
+
+* Execute o comando para subir a Api:
+  * `npm start`
