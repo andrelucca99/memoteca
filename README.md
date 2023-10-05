@@ -29,7 +29,7 @@ Abra seu terminal do Desktop e execute os passos abaixo:
 * Instale as dependências e rode o projeto:
 
   * `npm install`
-  * `npm start`
+  * `ng serve --open`
 
 * Para subir à API da aplicação, em outro terminal entre na pasta `backend`:
   * `cd backend`
