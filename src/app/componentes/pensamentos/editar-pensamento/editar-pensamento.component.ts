@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Pensamento } from '../pensamento';
 import { PensamentoService } from '../pensamento.service';
 import { ActivatedRoute, Router } from '@angular/router';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
@@ -11,13 +10,6 @@ import { minusculoValidator } from '../criar-pensamento/minusculoValidators';
   styleUrls: ['./editar-pensamento.component.css'],
 })
 export class EditarPensamentoComponent implements OnInit {
-  // pensamento: Pensamento = {
-  //   id: 0,
-  //   conteudo: '',
-  //   autoria: '',
-  //   modelo: ''
-  // }
-
   formulario!: FormGroup;
 
   constructor(
