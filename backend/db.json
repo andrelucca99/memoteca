@@ -29,6 +29,12 @@
       "autoria": "Usopp, One Piece",
       "modelo": "modelo3",
       "id": 6
+    },
+    {
+      "conteudo": "Hoje vou adicionar um formulaŕio reativo no componente de editar sozinho",
+      "autoria": "andré dev",
+      "modelo": "modelo2",
+      "id": 7
     }
   ]
 }
