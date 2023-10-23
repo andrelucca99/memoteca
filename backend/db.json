@@ -5,28 +5,28 @@
       "conteudo": "Não importa o que o mundo diz de mim, o que importa é que eu nunca fiz nada que contrariasse os meus princípios e nunca farei.",
       "autoria": "Zoro, One Piece",
       "modelo": "modelo3",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Você não é perfeito, você comete erros e fica mais forte por causa deles. Eu acredito que essa é a verdadeira força.",
       "autoria": "Hinata, Naruto",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "Não é pecado lutar pela justiça, ao contrário, é uma boa ação. Pense, existem.. Inimigos que não são convencidos com as palavras.",
       "autoria": "Android 16, Dragon Ball Z",
       "modelo": "modelo1",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 5,
       "conteudo": "A verdade é uma coisa bela e terrível, e portanto deve ser tratada com grande cautela.",
       "autoria": "Alvos Dumbledore",
       "modelo": "modelo2",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 6,
